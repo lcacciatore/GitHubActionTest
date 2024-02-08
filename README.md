@@ -1,3 +1,3 @@
 # GitHubActionTest
 
-Check push event
+Check push even
