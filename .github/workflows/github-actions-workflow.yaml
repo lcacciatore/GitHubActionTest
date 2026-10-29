@@ -14,7 +14,7 @@ jobs:
       # Information about the repository and branchxxxx
       - run: echo "The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
 
-      # Use Action located in https://github.com/actions
+      # Use Action located in https://github.com/actionsxxxx
       - name: Check out repository code
         uses: actions/checkout@v2
 
