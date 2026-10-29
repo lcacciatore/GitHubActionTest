@@ -11,7 +11,7 @@ jobs:
       # Runner information
       - run: echo "This job is now running on a ${{ runner.os }} server hosted by GitHub"
 
-      # Information about the repository and branch
+      # Information about the repository and branchxxxx
       - run: echo "The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
 
       # Use Action located in https://github.com/actions
